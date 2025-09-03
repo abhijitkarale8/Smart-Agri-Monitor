@@ -1,0 +1,5 @@
+{
+  "name": "Smart Agro Monitor",
+  "description": "A web dashboard to monitor soil moisture, analyze leaf health with AI, and control irrigation in real-time, simulating data from an IoT device.",
+  "requestFramePermissions": []
+}
